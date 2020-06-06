@@ -92,11 +92,6 @@ O layout do projeto pode ser visto através do [Figma](https://www.figma.com/fil
 
 ![Mobile](.github/mobile.gif)
 
-img[src$="centerme"] {
-  display:block;
-  margin: 0 auto;
-}
-
 <a id="como-usar"></a>
 ## :information_source: Como usar
 
