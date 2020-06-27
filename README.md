@@ -10,7 +10,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/felipefrm/ecoleta">
 	
-  <a href="https://www.linkedin.com/in/danielobara/">
+  <a href="https://www.linkedin.com/in/felipe-melo-a78504186/">
     <img alt="Made by felipefrm" src="https://img.shields.io/badge/made%20by-felipefrm-%2304D361">
   </a>
 
