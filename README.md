@@ -144,7 +144,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.c
 
 
 <h4 align="center">
-    Feito por 💜  <a href="https://www.linkedin.com/in/vitor-serrano/" target="_blank">Felipe Melo</a>
+     Feito por 💜  <a href="https://www.linkedin.com/in/felipe-melo-a78504186/" target="_blank">Felipe Melo</a>
 </h4>
 
 [nodejs]: https://nodejs.org/
